@@ -1,3 +1,23 @@
 .container {
   /* background: #000; */
 }
+
+.navBar {
+  display: block;
+  height: 100%;
+  align-items: center;
+  justify-content: right;
+}
+
+.navBar ul li {
+}
+
+.navBar ul li a {
+  justify-content: space-between;
+}
+
+.navImg {
+  align-items: center;
+  height: 40;
+  width: 110px;
+}
