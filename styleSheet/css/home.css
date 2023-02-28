@@ -1,10 +1,12 @@
 .container {
   /* background: #000; */
+  background: #171729;
 }
-
 .header {
+  background: #171729;
   height: 70px;
-  margin-top: 20px;
+  /* margin-top: 20px; */
+  padding-top: 20px;
 }
 .navBar {
   display: inline-block;
@@ -12,13 +14,6 @@
 
 .navbar li a {
   margin-left: 20px;
-}
-
-.navBar ul li {
-  /* display: inline-block; */
-}
-
-.navBar ul li a {
 }
 
 .navImg {
@@ -31,4 +26,43 @@
 
 .section1Container {
   background-color: #171729;
+}
+
+.s1Center h1 {
+  font-size: 60px;
+  font-weight: 400px;
+}
+
+.s1Center p {
+  font-size: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.s1Buttons {
+  width: 100%;
+}
+.emailSubmit {
+  padding: 0 20;
+  border-radius: 10px;
+  border: none;
+  font-size: 19px;
+
+  background-color: #fff;
+
+  margin: 0;
+  width: 300;
+  height: 50px;
+}
+
+.buttonPrimarySign {
+  padding: 12 25;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+
+  height: 50px;
 }
