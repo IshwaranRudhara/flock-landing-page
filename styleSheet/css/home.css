@@ -2,22 +2,33 @@
   /* background: #000; */
 }
 
+.header {
+  height: 70px;
+  margin-top: 20px;
+}
 .navBar {
-  display: block;
-  height: 100%;
-  align-items: center;
-  justify-content: right;
+  display: inline-block;
+}
+
+.navbar li a {
+  margin-left: 20px;
 }
 
 .navBar ul li {
+  /* display: inline-block; */
 }
 
 .navBar ul li a {
-  justify-content: space-between;
 }
 
 .navImg {
   align-items: center;
   height: 40;
   width: 110px;
+}
+
+/* NAV BAR ENDS */
+
+.section1Container {
+  background-color: #171729;
 }
