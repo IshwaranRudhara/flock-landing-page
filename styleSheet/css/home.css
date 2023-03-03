@@ -66,3 +66,33 @@
 
   height: 50px;
 }
+
+.s1Center {
+  text-align: center;
+}
+
+.section2Container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.company-logo {
+  /* margin: -10px -30px; */
+}
+.company-logo-img {
+  padding: 10px 30px;
+  height: 25px;
+}
+.img-pr-left {
+  position: relative;
+  right: 20px;
+}
+.img-pr-right {
+  position: relative;
+  left: 20px;
+}
+
+.mxW h2,
+p {
+  text-align: center;
+}

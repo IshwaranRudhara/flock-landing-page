@@ -16,6 +16,10 @@
   justify-content: space-between;
 }
 
+.jcsb {
+  justify-content: space-between;
+}
+
 .df {
   display: flex;
 } /* display flex*/
