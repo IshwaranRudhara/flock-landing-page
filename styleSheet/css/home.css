@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
+
 .container {
   /* background: #000; */
   background: #171729;
@@ -92,7 +94,74 @@
   left: 20px;
 }
 
-.mxW h2,
+/* .mxW h2,
 p {
   text-align: center;
+} */
+
+/* SECTION 3 STYLE STARTS */
+.section3Container {
+  padding: 30px 20px;
 }
+
+.section3 h2 {
+  text-align: center;
+  font-size: 42px;
+  margin-bottom: 20px;
+  line-height: 54px;
+}
+
+.section3 p {
+  /* font-weight: ; */
+  text-align: center;
+  font-size: 20px;
+  font-family: "dm-sans-regular", sans-serif;
+}
+/* SECTION 3 STYLE ENDS  */
+/* =============================================== */
+
+/* SECTION 4 STARTS STARTS  */
+.section4Contianer {
+  background: #fffcf0;
+  padding: 40px 20px;
+}
+
+.section4 {
+  margin-right: 60px;
+}
+
+.s4Left {
+  font-family: "dm-sans-bold", sans-serif;
+  text-align: left;
+  margin-right: 60px;
+}
+
+.s4Right {
+  font-family: "dm-sans-bold", sans-serif;
+  /* text-align: ; */
+  text-align: left;
+  font-size: 16px;
+  /* flex-basis: 640px; */
+}
+
+.s4Right p {
+  text-align: justify;
+  /* max-width: ; */
+}
+
+/* SECTION 4 STARTS ENDS  */
+/* =========================================== */
+
+/* SECTION 5 STARTS  */
+
+.section5Container {
+}
+
+.s5left {
+}
+
+.s5Right {
+}
+
+/* SECTION 5 ENDS */
+/* ================================================= */

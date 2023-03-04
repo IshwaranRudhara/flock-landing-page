@@ -1,21 +1,82 @@
-.txt-c {
-  text-align: center;
-}
-/* .w50 {
-  width: 50%;
-}
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
+
+/* width in % */
 
 .w25 {
   width: 25%;
-} */
-.w30 {
+}
+.W30 {
   width: 30%;
 }
 
-.W40 {
+.w40 {
   width: 40%;
 }
 
+.w50 {
+  width: 50%;
+}
+
+.w60 {
+  width: 60%;
+}
+
+.w70 {
+  width: 70%;
+}
+
+.w80 {
+  width: 80%;
+}
+
+.w90 {
+  width: 90%;
+}
+
+.w100 {
+  width: 100%;
+}
+
+/* width in %  */
+/* =============================== */
+/* padding STARTS */
+.p30 {
+  padding: 30px;
+}
+
+/* padding ENDS  */
+/* ================================ */
 .txtWhite {
   color: #fff;
+}
+
+.mxW {
+  max-width: 1140px;
+  margin: auto;
+}
+
+.df-jcsb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.jcsb {
+  justify-content: space-between;
+}
+
+.df {
+  display: flex;
+} /* display flex*/
+
+.txt-c {
+  text-align: center;
+}
+
+.img-W {
+  width: 100%;
+  height: 100%;
+}
+
+.txt-c {
+  text-align: center;
 }

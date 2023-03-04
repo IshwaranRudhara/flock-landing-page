@@ -5,30 +5,3 @@
   margin: 0;
   list-style-type: none;
 }
-
-.mxW {
-  max-width: 1140px;
-  margin: auto;
-}
-
-.df-jcsb {
-  display: flex;
-  justify-content: space-between;
-}
-
-.jcsb {
-  justify-content: space-between;
-}
-
-.df {
-  display: flex;
-} /* display flex*/
-
-.txt-c {
-  text-align: center;
-}
-
-.img-W {
-  width: 100%;
-  height: 100%;
-}
