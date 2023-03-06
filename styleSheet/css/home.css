@@ -23,7 +23,13 @@
   height: 40;
   width: 110px;
 }
+.button-primary {
+  padding: 3px 6px;
+}
 
+.button-secondary {
+  padding: 3px 6px;
+}
 /* NAV BAR ENDS */
 
 .section1Container {
@@ -40,6 +46,7 @@
   margin-bottom: 40px;
   text-align: center;
 }
+
 .s1Buttons {
   width: 100%;
 }
@@ -69,8 +76,19 @@
   height: 50px;
 }
 
+.s1Center h6 {
+  font-size: 15px;
+  margin-top: 15px;
+}
+.SignIn {
+  text-decoration: underline;
+  color: green;
+  cursor: hand;
+}
+
 .s1Center {
   text-align: center;
+  margin-bottom: 80px;
 }
 
 .section2Container {
@@ -165,3 +183,5 @@ p {
 
 /* SECTION 5 ENDS */
 /* ================================================= */
+
+/* SECTION 6 STARTS */
