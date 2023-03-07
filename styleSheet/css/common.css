@@ -1,8 +1,21 @@
-/*  COMMON FOR ONLY WEBSITE */
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&display=swap");
 
 * {
   padding: 0;
   margin: 0;
   list-style-type: none;
+}
+
+* li {
+  padding: 30px;
+}
+
+* h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  /* font-family: "dm-sans-regular", sans-serif; */
 }
