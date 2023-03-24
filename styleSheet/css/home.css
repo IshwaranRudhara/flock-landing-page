@@ -5,18 +5,32 @@
   background: #171729;
 }
 
+/* ============================= */
+
+/* HEADER STARTS  */
 .header {
   background: #171729;
   height: 70px;
   /* margin-top: 20px; */
   padding-top: 20px;
 }
-.navBar {
-  display: inline-block;
-}
 
-.navbar li a {
+/* HEADER ENDS */
+
+/* ============================= */
+/* NAV BAR STARTS */
+.navBar {
+  /* display: inline-block; */
+  align-items: center;
+  justify-content: center;
+}
+/* 
+.navbar ul li a {
   margin-left: 20px;
+} */
+
+.navBar ul li a {
+  justify-content: space-around;
 }
 
 .navImg {
@@ -30,6 +44,10 @@
 
 .button-secondary {
   padding: 3px 6px;
+}
+
+.txtWhite {
+  text-decoration: none;
 }
 /* NAV BAR ENDS */
 
